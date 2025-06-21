@@ -1,0 +1,7 @@
+<resources>
+    <!-- Your other string resources -->
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="admob_banner_ad_unit_id">ca-app-pub-2461177337350544~7598627331</string>
+
+</resources>
